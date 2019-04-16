@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles.css"],"names":[],"mappings":"AAAA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA","file":"styles.8986bff4.css","sourceRoot":"..","sourcesContent":["body {\n    background-color: powderblue;\n}\n#message {\n    color: blue;\n    font-size: 3em;\n    text-align: center;\n}\n"]}

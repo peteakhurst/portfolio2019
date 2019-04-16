@@ -1,0 +1,64 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+}
+
+body {
+
+  background: #333;
+}
+
+.container  {
+
+  height: 100vh;
+  width: 96rem;
+  max-width: 66%;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+
+  .inner-container {
+
+  }
+
+  h1 {
+    font-size: 4rem;
+    font-family: 'Slabo 27px', serif;
+    color: bisque;
+    font-weight: 500;
+    line-height: 1.3;
+    margin-top: 0;
+  }
+
+  p {
+    max-width: 80%;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2rem;
+    line-height: 1.3;
+    margin: 3rem 0;
+    color: #fff;
+  }
+}
+
+button {
+  color: bisque;
+  background-color: goldenrod;
+  padding: 20px;
+  border: none;
+
+
+   a {
+     text-decoration: none;
+     font-size: 3em;
+     background: none;
+     color: #ffffff;
+
+     &:visited {
+       color: #ffffff;
+     }
+   }
+
+
+}
